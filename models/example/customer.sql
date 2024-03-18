@@ -3,7 +3,7 @@
 with source_data as (
 
     SELECT * 
-    FROM SELLER
+    FROM CUSTOMER
 
 )
 
